@@ -1,5 +1,4 @@
-ChuckNorrisAPIv2 React
-![chuckNorris](https://user-images.githubusercontent.com/52587785/117384362-c3f4a780-aeb0-11eb-9e73-6b8ab86777ee.png)
+# ChuckNorrisAPIv2 React
 <img src="https://user-images.githubusercontent.com/52587785/117384362-c3f4a780-aeb0-11eb-9e73-6b8ab86777ee.png" width=50% height=50%>
 
 
